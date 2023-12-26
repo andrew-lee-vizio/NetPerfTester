@@ -1,0 +1,25 @@
+{
+    "stations": "3",
+    "param": {
+        "port": "5010",
+        "protocol": "tcp"
+    },
+    "pc": {
+        "ip": "10.64.138.208",
+        "hostname": "PC",
+        "id": "networkmonitor",
+        "password": "networkmonitor"
+    },
+    "tv": {
+        "ip": "10.64.139.242",
+        "hostname": "MTK",
+        "id": "root",
+        "password": "root"
+    },
+    "tv2": {
+        "ip": "10.64.139.221",
+        "hostname": "NVT",
+        "id": "root",
+        "password": "root"
+    }
+}
